@@ -1,5 +1,5 @@
 ---
-title: sogeometric Boundary Element Method for Viscoelastic Effects of Solid Propellant
+title: Isogeometric Boundary Element Method for Viscoelastic Effects of Solid Propellant
 summary: Viscoelastic analysis for composite materials.
 tags:
 - Viscoelastic analysis
