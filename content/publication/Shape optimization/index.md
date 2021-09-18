@@ -1,26 +1,20 @@
 
 ---
-title: "RI-IGABEM for 2D viscoelastic problems and its application to solid propellant grains"
+title: "Shape optimization of heterogeneous materials based on isogeometric boundary element method"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Rui Dai
-- Xiangyang Liu
-- Yusheng Zhan
 - Chunying Dong
 
 # Author notes (optional)
 author_notes:
 - "Major contribution"
-- "Minor contribution"
-- "Minor contribution"
-- "Minor contribution"
 - "Major contribution"
 
-date: "2021-03-01T00:00:00Z"
+date: "2021-05-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -36,10 +30,17 @@ publication_types: ["2"]
 publication: In *Computer Methods in Applied Mechanics and Engineering*
 publication_short: In *CMAME*
 
-abstract: The isogeometric boundary element method (IGABEM) has a broad application prospect due to its exact geometric representation, excellent field approximation and only boundary discretization property. In this paper, IGABEM based on radial integration method (RI\-IGABEM) is used for viscoelastic analysis of solid propellant grain. The memory stress, as the initial stress, leads to the boundary-domain integral equations and thus eliminates the only boundary discretization advantage of boundary element method (BEM). The radial integration method (RIM) is applied to transform the domain integral into an equivalent boundary integral by means of the applied points. The usage of RIM makes it possible to only store the strains on the applied points. Meanwhile, Prony-series is used to discretize the general integrals and to store the two most recent time-step strains rather than the time-step strains of the entire process. The combination between RIM and Prony-series will help reduce the storage space and computational time. In addition, by using the fundamental solutions for linear elastic problems and the regularized technologies, the singular integrals can be solved through the previous methods, such as the Telles scheme and element sub-division method. In order to validate the accuracy and robustness of RI-IGABEM in viscoelastic analysis, the influence of the number and position of applied points as well as the time interval on viscoelastic analysis is discussed through comparing with cell discretization methods. A set of numerical examples demonstrates the ability of the scheme to simulate the viscoelastic problems.
+Hightlights:
+
+* IGABEM is extended to shape optimization of heterogeneous materials.
+* PSEM is applied to solve singular integrals in sensitivity analysis.
+* During the whole shape optimization process, the mesh is avoided.
+* Control points are chosen as design variables to directly optimize geometries.
+
+abstract: In this paper, the isogeometric boundary element method (IGABEM) is used to optimize the shape of heterogeneous materials. In contrast to the isogeometric finite element method (IGAFEM), the iterative optimization algorithm based on IGABEM can be implemented directly from Computer-Aided Design (CAD) without returning the optimization results to CAD designers. The discontinuous element method is extended to IGABEM which deals with corner point problems of inhomogeneous materials. After the singularity of sensitivity analysis of boundary integral equations is demonstrated, the power series expansion method (PSEM) is applied to IGABEM to evaluate various degrees of singularity about sensitivity analysis, which shows more accuracy and efficiency than the element sub-division method (ESDM). A set of control points on the geometric boundary are chosen as design variables, which can be passed from the design model to the analysis model, and the objective function is the elastic energy increment. Finally, several numerical examples in 2D and 3D problems are presented to demonstrate the validity and robustness of the present method.
 
 # Summary. An optional shortened abstract.
-summary: Viscoelastic analysis.
+summary: Shape optimization.
 
 tags: []
 
