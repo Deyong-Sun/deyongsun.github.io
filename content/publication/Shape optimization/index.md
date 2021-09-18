@@ -30,12 +30,6 @@ publication_types: ["2"]
 publication: In *Computer Methods in Applied Mechanics and Engineering*
 publication_short: In *CMAME*
 
-Hightlights:
-
-* IGABEM is extended to shape optimization of heterogeneous materials.
-* PSEM is applied to solve singular integrals in sensitivity analysis.
-* During the whole shape optimization process, the mesh is avoided.
-* Control points are chosen as design variables to directly optimize geometries.
 
 abstract: In this paper, the isogeometric boundary element method (IGABEM) is used to optimize the shape of heterogeneous materials. In contrast to the isogeometric finite element method (IGAFEM), the iterative optimization algorithm based on IGABEM can be implemented directly from Computer-Aided Design (CAD) without returning the optimization results to CAD designers. The discontinuous element method is extended to IGABEM which deals with corner point problems of inhomogeneous materials. After the singularity of sensitivity analysis of boundary integral equations is demonstrated, the power series expansion method (PSEM) is applied to IGABEM to evaluate various degrees of singularity about sensitivity analysis, which shows more accuracy and efficiency than the element sub-division method (ESDM). A set of control points on the geometric boundary are chosen as design variables, which can be passed from the design model to the analysis model, and the objective function is the elastic energy increment. Finally, several numerical examples in 2D and 3D problems are presented to demonstrate the validity and robustness of the present method.
 
