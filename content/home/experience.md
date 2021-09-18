@@ -47,9 +47,9 @@ experience:
     description: |2-
          Responsibilities include:
          
-         * Completed the on-site production visits to the Fengcheng Oilfield, the No. 2 SAGD oil production station, and the No. 1 extra heavy oil joint treatment station.
-         * Mastered SAGD technique, extra heavy oil treatment methods, and the use of thermal oil recovery equipment.
-         * Enhanced the oil production technique, steam flooding operation and troubleshooting skills.
+         * Completed the on-site production visits to the Fengcheng Oilfield, the No. 2 SAGD oil production station, and the No. 1 extra heavy oil joint treatment station
+         * Mastered SAGD technique, extra heavy oil treatment methods, and the use of thermal oil recovery equipment
+         * Enhanced the oil production technique, steam flooding operation and troubleshooting skills
 
 design:
   columns: '2'
