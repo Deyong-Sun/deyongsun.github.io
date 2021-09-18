@@ -4,7 +4,7 @@
 widget: featurette
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
 weight: 30
@@ -15,7 +15,6 @@ subtitle:
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-feature:
 - 3D modelling: Rhino
 - Programming skills: Matlab Fortran C++ Python
 - Post-processing: Tecplot
