@@ -33,8 +33,9 @@ experience:
         Responsibilities include:
         
         * Organized and planned the autonomous driving competition, and took part in 2018i\-VISTAGrand Challenge
-        * Modelling
-        * Deploying
+        * Kept abreast of trends and advancements in driverless industry according to the general development of website
+        * Collected, analyzing and editing the information for the column for self\-driving, and handled the daily update, maintenance, review and posting of website content
+        * Generated, compiled and improved the output for the column
         
   - title: Professor of Semiconductor Physics
     company: University X
