@@ -16,7 +16,7 @@ weight: 30
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 title: Skills
 subtitle:
-- 3D modelling: Rhino
+- 3D modelling
 
 
 # Uncomment to use emoji icons.
