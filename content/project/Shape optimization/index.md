@@ -2,7 +2,8 @@
 title: Studies on Rapid and Direct Algorithm of Isogeometric Boundary Element for Large Scale Multilayer Complex Coating Structures
 summary: Shape optimization for composite meterials
 tags:
-- Other
+- Composite materials
+- Demo
 date: "2020-06-2021-06"
 
 # Optional external URL for project (replaces project detail page).
