@@ -32,7 +32,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
+        * Organized and planned the autonomous driving competition, and took part in 2018i\-VISTAGrand Challenge
         * Modelling
         * Deploying
         
