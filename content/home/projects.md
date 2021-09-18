@@ -27,8 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Viscoelastic analysis
+    tag: Viscoelastic analysis
+  - name: Shape optimization
+    tag: Shape optimization
+  - name: composite materials
+    tag: composite materials
   - name: Other
     tag: Demo
 
