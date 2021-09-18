@@ -1,25 +1,19 @@
 ---
-title: "RI-IGABEM for 2D viscoelastic problems and its application to solid propellant grains"
+title: ", Isogeometric analysis of the new integral formula for elastic energy change of heterogeneous materials"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Rui Dai
-- Xiangyang Liu
-- Yusheng Zhan
 - Chunying Dong
 
 # Author notes (optional)
 author_notes:
 - "Major contribution"
-- "Minor contribution"
-- "Minor contribution"
-- "Minor contribution"
 - "Major contribution"
 
-date: "2021-03-01T00:00:00Z"
+date: "2020-03-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -32,15 +26,15 @@ publishDate: "2021-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Computer Methods in Applied Mechanics and Engineering*
-publication_short: In *CMAME*
+publication: In *Journal of Computational and Applied Mathematics*
+publication_short: In *JCAM*
 
-abstract: The isogeometric boundary element method (IGABEM) has a broad application prospect due to its exact geometric representation, excellent field approximation and only boundary discretization property. In this paper, IGABEM based on radial integration method (RI\-IGABEM) is used for viscoelastic analysis of solid propellant grain. The memory stress, as the initial stress, leads to the boundary-domain integral equations and thus eliminates the only boundary discretization advantage of boundary element method (BEM). The radial integration method (RIM) is applied to transform the domain integral into an equivalent boundary integral by means of the applied points. The usage of RIM makes it possible to only store the strains on the applied points. Meanwhile, Prony-series is used to discretize the general integrals and to store the two most recent time-step strains rather than the time-step strains of the entire process. The combination between RIM and Prony-series will help reduce the storage space and computational time. In addition, by using the fundamental solutions for linear elastic problems and the regularized technologies, the singular integrals can be solved through the previous methods, such as the Telles scheme and element sub-division method. In order to validate the accuracy and robustness of RI-IGABEM in viscoelastic analysis, the influence of the number and position of applied points as well as the time interval on viscoelastic analysis is discussed through comparing with cell discretization methods. A set of numerical examples demonstrates the ability of the scheme to simulate the viscoelastic problems.
+abstract: In recent years, more and more attention has been paid to isogeometric methods, in which shape functions are used to accurately describe CAD models and approximate unknown fields. The isogeometric boundary element method (IGABEM) realizes the integration on the exact boundary of the region, which means there is no geometric discretization error. In this paper, a more general interface integral formula for elastic energy increment of heterogeneous materials is extended from previous work (Dong, 2018), in which the only unknown variable is the displacement located on the interface between matrix and inclusion. This feature makes it more compatible with boundary element method (BEM) because of none of volume parametrization. However, the geometry discontinuity on the boundary called ‘corner point problem’ increases the difficulty and decreases the accuracy when solving complex numerical examples when heterogeneous structures are considered. The discontinuous element method combined with IGABEM is presented and applied to deal with ‘corner point problem’. In the numerical examples, the interface between matrix and inclusion is discretized by quadratic isogeometric elements. Compared with the analytical solution, the numerical results show that the method has higher accuracy and efficiency.
 
 # Summary. An optional shortened abstract.
 summary: Viscoelastic analysis.
 
-tags: []
+tags: Cpmposite materials
 
 # Display this page in the Featured widget?
 featured: true
