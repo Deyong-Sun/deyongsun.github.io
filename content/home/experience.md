@@ -29,13 +29,13 @@ experience:
     location: Beijing, China
     date_start: '2018-07-01'
     date_end: '2018-08-31'
-    description: |4-
+    description: |2-
         Responsibilities include:
         
-        * Organized and planned the autonomous driving competition, and took part in 2018i-VISTAGrand Challenge.
-        * Kept abreast of trends and advancements in driverless industry according to the general development of website (Wechat, Weibo, Zhihu, forum, etc).
-        * Collected, analyzing and editing the information for the column for self-driving, and handled the daily update, maintenance, review and posting of website content.
-        * Generated, compiled and improved the output for the column.
+        * Organized and planned the autonomous driving competition, and took part in 2018i-VISTAGrand Challenge
+        * Kept abreast of trends and advancements in driverless industry according to the general development of website (Wechat, Weibo, Zhihu, forum, etc)
+        * Collected, analyzing and editing the information for the column for self-driving, and handled the daily update, maintenance, review and posting of website content
+        * Generated, compiled and improved the output for the column
         
   - title: Internship
     company: CNPC
@@ -44,7 +44,7 @@ experience:
     location: Xinjiang, China
     date_start: '2017-04-01'
     date_end: '2018-7-31'
-    description: |3-
+    description: |2-
          Responsibilities include:
          
          * Completed the on-site production visits to the Fengcheng Oilfield, the No. 2 SAGD oil production station, and the No. 1 extra heavy oil joint treatment station.
