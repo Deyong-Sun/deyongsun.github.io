@@ -1,5 +1,5 @@
 ---
-title: ", Isogeometric analysis of the new integral formula for elastic energy change of heterogeneous materials"
+title: "Isogeometric analysis of the new integral formula for elastic energy change of heterogeneous materials"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
