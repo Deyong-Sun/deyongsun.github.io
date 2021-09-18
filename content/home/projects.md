@@ -31,8 +31,8 @@ content:
     tag: Viscoelastic analysis
   - name: Shape optimization
     tag: Shape optimization
-  - name: composite materials
-    tag: composite materials
+  - name: Composite materials
+    tag: Composite materials
   - name: Other
     tag: Demo
 
