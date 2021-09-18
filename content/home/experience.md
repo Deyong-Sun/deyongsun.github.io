@@ -37,14 +37,18 @@ experience:
         * Collected, analyzing and editing the information for the column for self\-driving, and handled the daily update, maintenance, review and posting of website content
         * Generated, compiled and improved the output for the column
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Internship
+    company: CNPC
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Xinjiang
+    date_start: '2017-04-01'
+    date_end: '2017-08-31'
+    description: |2-
+        Responsibilities include:
+        * Completed the on-site production visits to the Fengcheng Oilfield, the No. 2 SAGD oil production station, and the No. 1 extra heavy oil joint treatment station
+        * Mastered SAGD technique, extra heavy oil treatment methods, and the use of thermal oil recovery equipment
+        * Enhanced the oil production technique, steam flooding operation and troubleshooting skills
 
 design:
   columns: '2'
