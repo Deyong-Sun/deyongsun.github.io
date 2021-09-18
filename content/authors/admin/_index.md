@@ -1,6 +1,6 @@
 ---
 title: Deyong Sun
-role: Professor of Artificial Intelligence
+role: Graduate student
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
