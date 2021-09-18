@@ -16,18 +16,12 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+- 3D modelling: Rhino
+- Programming skills: Matlab Fortran C++ Python
+- Post-processing: Tecplot
+- FEM modelling software: Abaqus
+- Parallel computing: Paracloud Linux
+- Language: IELTS(7.0)
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
