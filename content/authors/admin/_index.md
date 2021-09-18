@@ -34,8 +34,8 @@ education:
     - course: MEng in Mechanical Engineering
       institution: Beijing Institute of Technology (BIT)
       year: 2018.09-2021.06
-    - course: BSc in China Uninversity of Petroleum (CUP)
-      institution: Petroleum Engineering
+    - course: BSc in Petroleum Engineering
+      institution: China Uninversity of Petroleum (CUP)
       year: 2014.09-2018.06
 email: "sdygoole.gmail.com"
 superuser: true
