@@ -14,13 +14,10 @@ weight: 30
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-Skills:
+title: Skills
+subtitle:
 - 3D modelling: Rhino
-- Programming skills: Matlab Fortran C++ Python
-- Post-processing: Tecplot
-- FEM modelling software: Abaqus
-- Parallel computing: Paracloud Linux
-- Language: IELTS(7.0)
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
