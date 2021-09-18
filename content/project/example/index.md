@@ -1,9 +1,9 @@
 ---
-title: Isogeometric Boundary Element Method for Viscoelastic Effects of Solid Propellant
+title: Example Project
 summary: An example of using the in-built project page.
 tags:
-- Viscoealstic analysis
-date: "2029-06-27T00:00:00Z"
+- Viscoelastic analysis
+date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: ""
-  icon_pack: ""
-  name: ""
-  url: ""
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
