@@ -1,5 +1,5 @@
 ---
-title: Deyong Sun1
+title: Deyong Sun
 role: Graduate student
 avatar_filename: 1.png
 bio: My research interests include Computational mechanics, Isogeometric
