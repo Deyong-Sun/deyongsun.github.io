@@ -32,10 +32,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Organized and planned the autonomous driving competition, and took part in 2018i-VISTAGrand Challenge
-        * Kept abreast of trends and advancements in driverless industry according to the general development of website (Wechat, Weibo, Zhihu, forum, etc)
-        * Collected, analyzing and editing the information for the column for self-driving, and handled the daily update, maintenance, review and posting of website content
-        * Generated, compiled and improved the output for the column
+        * Organized
         
   - title: Internship
     company: CNPC
@@ -47,9 +44,7 @@ experience:
     description: |2-
          Responsibilities include:
          
-         * Completed the on-site production visits to the Fengcheng Oilfield, the No. 2 SAGD oil production station, and the No. 1 extra heavy oil joint treatment station
-         * Mastered SAGD technique, extra heavy oil treatment methods, and the use of thermal oil recovery equipment
-         * Enhanced the oil production technique, steam flooding operation and troubleshooting skills
+         * Completed
 
 design:
   columns: '2'
