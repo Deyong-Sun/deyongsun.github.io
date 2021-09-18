@@ -1,38 +1,44 @@
 ---
-title: "An example conference paper"
+title: "_RI-IGABEM_ for 2D viscoelastic problems and its application to solid propellant grains"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- Rui Dai
+- Xiangyang Liu
+- Yusheng Zhan
+- Chunying Dong
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "Major contribution"
+- "Minor contribution"
+- "Minor contribution"
+- "Minor contribution"
+- "Major contribution"
 
 date: "2013-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Computer Methods in Applied Mechanics and Engineering*
+publication_short: In *CMAME*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The isogeometric boundary element method (IGABEM) has a broad application prospect due to its exact geometric representation, excellent field approximation and only boundary discretization property. In this paper, IGABEM based on radial integration method (RI\-IGABEM) is used for viscoelastic analysis of solid propellant grain. The memory stress, as the initial stress, leads to the boundary-domain integral equations and thus eliminates the only boundary discretization advantage of boundary element method (BEM). The radial integration method (RIM) is applied to transform the domain integral into an equivalent boundary integral by means of the applied points. The usage of RIM makes it possible to only store the strains on the applied points. Meanwhile, Prony-series is used to discretize the general integrals and to store the two most recent time-step strains rather than the time-step strains of the entire process. The combination between RIM and Prony-series will help reduce the storage space and computational time. In addition, by using the fundamental solutions for linear elastic problems and the regularized technologies, the singular integrals can be solved through the previous methods, such as the Telles scheme and element sub-division method. In order to validate the accuracy and robustness of RI-IGABEM in viscoelastic analysis, the influence of the number and position of applied points as well as the time interval on viscoelastic analysis is discussed through comparing with cell discretization methods. A set of numerical examples demonstrates the ability of the scheme to simulate the viscoelastic problems.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Viscoelastic analysis.
 
 tags: []
 
