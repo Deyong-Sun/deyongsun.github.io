@@ -1,7 +1,7 @@
 ---
 title: Deyong Sun
 role: Graduate student
-avatar_filename: 1154fdd6df66d9ef583eddbe87d94f0f.jpg
+avatar_filename: g66.png.625x385_q100.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
