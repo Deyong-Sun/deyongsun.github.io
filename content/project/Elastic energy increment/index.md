@@ -1,7 +1,7 @@
 
 ---
-title: Isogeometric Boundary Element Method for Viscoelastic Effects of Solid Propellant
-summary: Isogeometric Boundary Element Method for Turbine Blade Failure in Aeroengines
+title: Isogeometric Boundary Element Method for Turbine Blade Failure in Aeroengines
+summary: Solid\-fluid interaction problem
 tags:
 - Demo
 date: "2018-06-2019-03"
