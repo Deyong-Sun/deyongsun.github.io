@@ -1,5 +1,5 @@
 ---
-title: "RI-IGABEM for 2D viscoelastic problems and its application to solid propellant grains"
+title: "**<font color = Blue>RI-IGABEM for 2D viscoelastic problems and its application to solid propellant grains</font>**"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
